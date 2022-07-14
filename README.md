@@ -44,7 +44,6 @@ ________________________________________________________________________________
 - [Capacitor 36pF SMD 0805](https://s.click.aliexpress.com/e/_AVdmzr)
 - [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [QFN16 SY6982E](https://s.click.aliexpress.com/e/_DmTDfkf)
-- [16Mhz Crystal](https://s.click.aliexpress.com/e/_DFmHH83)
 
 
 ## Firmware Download 
