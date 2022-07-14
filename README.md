@@ -41,8 +41,8 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 ________________________________________________________________________________________________________________
 
 ## PCB Parts list
-- [Capacitor 36pF SMD 0805](https://s.click.aliexpress.com/e/_AVdmzr)
-- [Resistor SMD 1206 330R x3 ](https://s.click.aliexpress.com/e/_A7OXrR)
+- [Capacitor SMD 0805](https://s.click.aliexpress.com/e/_AVdmzr)
+- [Resistor SMD 1206 ](https://s.click.aliexpress.com/e/_A7OXrR)
 - [QFN16 SY6982E](https://s.click.aliexpress.com/e/_DmTDfkf)
 
 
