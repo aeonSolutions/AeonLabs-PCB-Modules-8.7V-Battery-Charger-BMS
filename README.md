@@ -36,7 +36,7 @@ This PCB is a #direct fit #replacement of the one found on the internet at sale.
 
 #### Be supportive of my dedication and work towards technology education and buy me a coffee. Link below.
 
-![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/pcb_front.png)
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-8.7V-Battery-Charger-BMS/blob/main/designs/pcb_front.png)
 
 ________________________________________________________________________________________________________________
 
